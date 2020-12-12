@@ -1,0 +1,4 @@
+there are 3 types of basic networking topologies
+1) star topology
+2) Ring topology
+3) Bus topology
